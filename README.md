@@ -24,6 +24,12 @@ Welcome to **CV-Agent**, an intelligent system designed to automate the collecti
 - 📩 **Automatic Reply to Candidates**: Sends a personalized email back to each applicant with a summary of their extracted details.
 
 ---
+## Demo
+
+![Watch the demo video](assets/demo.gif)
+![](assets/demo1.gif)
+
+---
 
 ## 📚 Tech Stack
 
